@@ -23,7 +23,7 @@ Choose your own adventure:
 
 ## About
 
-Hey there! I'm a current senior studying Computer Science at UCLA, with a minor in Film, TV, and Digital Media. I love exploring new and exciting fields and ways I can use computer science to tackle problems in those fields. I learn best by doing, so I'm always looking for new projects to work on and new people to collaborate with. My focus is on computer graphics, artificial intelligence, and software engineering, but I'm always open to new ideas and opportunities.
+Hey there! I'm a current senior studying Computer Science at UCLA, with a minor in Film, TV, and Digital Media. I love exploring new and exciting fields and ways I can use computer science to tackle problems in those fields. In particular, I'm fascinated in the many intersections between the arts and computer science. I learn best by doing, so I'm always looking for new projects to work on and new people to collaborate with. My focus is on computer graphics, artificial intelligence, and software engineering, but I'm always open to new ideas and opportunities.
 
 I'm looking for full-time opportunities starting in June 2025. If you think I'd be a good fit for your team, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ugathoo/)!
 
